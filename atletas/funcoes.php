@@ -71,3 +71,15 @@
         $atleta = find('atletas', $id);
       }
   
+
+      /**
+	 *  Exclusão de um Atleta
+	 */
+	function delete($id = null) {
+	
+        global $atleta;
+        $atleta = remove('atletas', $id);
+      
+        header('location: index.php');
+      }
+  
