@@ -2,7 +2,7 @@
 	
     <hr>
     <footer class="container">
-        <p>&copy;2019 - Web Dev Marcelo Damasco - Alyson Martins - Richard Fernadez</p>
+        <p>&copy;2019 - Web Dev - Marcelo Damasco - Alyson Martins - Richard Fernadez - USJ 3ª Fase - LP II e Design da Informação</p>
     </footer>
 
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
